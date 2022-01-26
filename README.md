@@ -30,3 +30,26 @@
         </tr>
     </tbody>
 </table>
+
+## 🖥️ My PC specs:
+
+<table>
+    <thead>
+        <tr>
+            <th>CPU</th>
+            <th>iGPU</th>
+            <th>RAM</th>
+        </tr>
+    </thead>
+    <tbody>
+        <td>
+            <img src="https://img.shields.io/badge/Intel-Core_i3_6100-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/Intel-UHD%20630-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/CORSAIR-8x2%20(16GB)%203600Mhz-999999?style=for-the-badge&logo=corsair&logoColor=black" />
+        </td>
+
+
