@@ -53,9 +53,10 @@
         </td>
         </tr>
         </thead>
-        <tbody>
+        </tbody>
+        </table>
     
- ## 💻 My LAPTOP specs:
+ ##💻 My LAPTOP specs:
     
     <table>
     <thead>
