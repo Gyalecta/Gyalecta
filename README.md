@@ -56,7 +56,7 @@
         </tbody>
         </table>
     
- ##💻 My LAPTOP specs:
+ ## 💻 My LAPTOP specs:
     
     <table>
     <thead>
@@ -70,7 +70,8 @@
         </td>
         </tr>
         </thead>
-        <tbody>
+        </tbody>
+        </table>
     
 
 
