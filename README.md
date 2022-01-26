@@ -55,4 +55,9 @@
         </thead>
         </tbody>
         </table>
+        
+ ## ↖️ Stats:
+
+        <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Gyalecta&theme=blue-green" />
+
 
