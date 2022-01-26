@@ -30,7 +30,7 @@
             </td>
             <td>
                 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-                <img src="https://img.shields.io/badge/CSS-43853D?style=for-the-badge&logo=CSS&logoColor=white" />
+                <img src=" https://img.shields.io/CSS/v/CSS.svg?logo=CSS" />
             </td>
             <td>
                 <img src="https://img.shields.io/badge/Python-F7F7F7?style=for-the-badge&logo=python&logoColor=3776AB" /> 
