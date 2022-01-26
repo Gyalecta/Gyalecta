@@ -1,4 +1,4 @@
-### <div align="center" width="200">I am Domenico, 16 Years Old CS student! 🇮🇹</div>
+### <div align="center" width="200">I am Domenico, 16 Years Old CS student from Italy 🇮🇹!
 
 <p align="center">
     <a href="mailto:domenicoavinodeveloper@gmail.com">
