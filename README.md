@@ -8,9 +8,9 @@
   
 <br>
 
-- 🧐 Current learning: [C⚛️].
+- 🧐 Current learning: [C].
 
-- 💡 Interested in: 🌍 🔐 CyberSecurity + 📴 Mobile Development + 🖥️ Software Development + 💰 Cryptocurrency
+- 💡 Interested in: 🔐 CyberSecurity + 📴 Mobile Development + 🖥️ Software Development + 💰 Cryptocurrency
  
 
 ## ⚡ What I'm learning / What I learned
@@ -51,5 +51,25 @@
         <td>
             <img src="https://img.shields.io/badge/CORSAIR-8x2%20(16GB)%203600Mhz-999999?style=for-the-badge&logo=corsair&logoColor=black" />
         </td>
+        </tr>
+        </thead>
+        <tbody>
+    
+ ## 💻 My LAPTOP specs:
+    
+    <table>
+    <thead>
+        <tr>
+            <th>LAPTOP</th>
+        </tr>
+    </thead>
+    <tbody>
+        <td>
+            <img src="https://img.shields.io/badge/ACER-Aspire_3_A315_35_P20R-999999?style=for-the-badge&logo=ACER&logoColor=GREEN" />
+        </td>
+        </tr>
+        </thead>
+        <tbody>
+    
 
 
