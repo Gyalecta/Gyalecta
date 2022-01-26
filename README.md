@@ -10,7 +10,7 @@
 
 - 🧐 Current learning: [C⚛️].
 
-- 💡 Interested in: 🌍 🔐 CyberSecurity + 📴 Mobile Development + 🖥️ Software Development
+- 💡 Interested in: 🌍 🔐 CyberSecurity + 📴 Mobile Development + 🖥️ Software Development + 💰 Cryptocurrency
  
 
 ## ⚡ What I'm learning / What I learned
@@ -25,14 +25,6 @@
     </thead>
     <tbody>
         <tr>
-            <td>
-               <img src="https://img.shields.io/badge/HTML-F4470B?style=for-the-badge&logo=html5&logoColor=white" />
-                <img src"https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-            </td>
-            <td>
-                <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-                <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-            </td>
             <td>
                 <img src="https://img.shields.io/badge/Python-F7F7F7?style=for-the-badge&logo=python&logoColor=3776AB" /> 
                 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
