@@ -55,23 +55,4 @@
         </thead>
         </tbody>
         </table>
-    
- ## 💻 My LAPTOP specs:
-    
-    <table>
-    <thead>
-        <tr>
-            <th>LAPTOP</th>
-        </tr>
-    </thead>
-    <tbody>
-        <td>
-            <img src="https://img.shields.io/badge/ACER-Aspire_3_A315_35_P20R-999999?style=for-the-badge&logo=ACER&logoColor=GREEN" />
-        </td>
-        </tr>
-        </thead>
-        </tbody>
-        </table>
-    
-
 
