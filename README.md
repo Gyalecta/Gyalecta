@@ -8,7 +8,7 @@
   
 <br>
 
-- 🧐 Current learning: [C].
+- 🧐 Current learning: [HTML].
 
 - 💡 Interested in: 🔐 CyberSecurity + 📴 Mobile Development + 🖥️ Software Development + 💰 Cryptocurrency
  
@@ -23,9 +23,9 @@
     </thead>
     <tbody>
             <td>
-                <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-                <img src="https://img.shields.io/badge/Python-F7F7F7?style=for-the-badge&logo=python&logoColor=3776AB" /> 
-                <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+                <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+                <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
             </td>
         </tr>
     </tbody>
