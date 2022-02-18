@@ -41,7 +41,7 @@
     </thead>
     <tbody>
         <td>
-            <img src="https://img.shields.io/badge/Intel-Core_i3_6100-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+            <img src="https://img.shields.io/badge/Intel-Core_i5_10400-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
         </td>
         <td>
             <img src="https://img.shields.io/badge/Intel-UHD%20630-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
