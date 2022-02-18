@@ -8,9 +8,7 @@
   
 <br>
 
-- 🧐 Current learning: [HTML].
-
-- 💡 Interested in: 🔐 CyberSecurity + 📴 Mobile Development + 🖥️ Software Development + 💰 Cryptocurrency
+- 💡 Interested in: 🔐 CyberSecurity + 📴 Web Development + 🖥️ Software Development + 💰 Cryptocurrency
  
 
 ## ⚡ What I'm learning / What I learned
