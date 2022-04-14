@@ -56,5 +56,5 @@
 
 <!-- Begin: HubSpot Academy - Inbound Marketing Badge -->
 <a href="https://drive.google.com/uc?export=view&id=19diLyLncS8Ydh-rxJTCKafhPdmXAiRiE">
-<img src="https://drive.google.com/uc?export=view&id=19diLyLncS8Ydh-rxJTCKafhPdmXAiRiE" style="width: 650px; max-width: 100%;"/>
+<img src="https://drive.google.com/uc?export=view&id=19diLyLncS8Ydh-rxJTCKafhPdmXAiRiE" width: "450px"/>
 <!-- End: HubSpot Academy - Inbound Marketing Badge -->
