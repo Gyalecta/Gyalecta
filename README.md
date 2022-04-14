@@ -53,3 +53,11 @@
         </thead>
         </tbody>
         </table>
+
+<!-- Begin: HubSpot Academy - Inbound Marketing Badge -->
+<div class='academy-badge'>
+<a href='http://academy.hubspot.com/certification' title='Inbound Marketing'>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/799f904ea37f4969ac1d7982660785a4.png' />
+</a>
+</div>
+<!-- End: HubSpot Academy - Inbound Marketing Badge -->
