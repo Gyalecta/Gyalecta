@@ -55,9 +55,6 @@
         </table>
 
 <!-- Begin: HubSpot Academy - Inbound Marketing Badge -->
-<div class='academy-badge'>
-<a href='http://academy.hubspot.com/certification' title='Inbound Marketing'>
-<img src='https://drive.google.com/file/d/19diLyLncS8Ydh-rxJTCKafhPdmXAiRiE/view?usp=sharing' />
-</a>
-</div>
+<a href="https://drive.google.com/uc?export=view&id=19diLyLncS8Ydh-rxJTCKafhPdmXAiRiE">
+<img src="https://drive.google.com/uc?export=view&id=19diLyLncS8Ydh-rxJTCKafhPdmXAiRiE"/>
 <!-- End: HubSpot Academy - Inbound Marketing Badge -->
